@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Somnath64&label=Profile%20views&color=0e75b6&style=flat" alt="somnath"/></p>
 
-<h1 align="center"> Hi there, <img width="30px" src="https://github.com/Somnath64/Somnath64/blob/master/assets/hi.gif">, I'm Somnath Bhosale <i></i></h1>
+<h1 align="center"> Hi there <img width="30px" src="https://github.com/Somnath64/Somnath64/blob/master/assets/hi.gif">, I'm Somnath Bhosale <i></i></h1>
 
 <p align="center">
   <br><img src="https://github.com/Somnath64/Somnath64/blob/master/assets/developer.gif" width="450px">

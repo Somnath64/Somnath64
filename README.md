@@ -10,7 +10,7 @@
   <br><img src="https://github.com/Somnath64/Somnath64/blob/master/assets/snake.svg" width="450px">
 </p>
 
-<h3 align="center">A Frontend Developer</h3>
+<h3 align="center">A Fullstack Developer</h3>
 
 <!--
 **Somnath64/Somnath64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
